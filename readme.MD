@@ -94,11 +94,4 @@ Contributions to improve the system are welcome. Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See `LICENSE` file for more information.
-
-## Contact
-
-Bayoumii - mobayoo25@gmail.com
 
